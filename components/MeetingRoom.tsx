@@ -1,6 +1,5 @@
 import { cn } from "@/lib/utils";
 import {
-  Call,
   CallControls,
   CallingState,
   CallParticipantsList,
@@ -13,7 +12,6 @@ import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
-  DropdownMenuLabel,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
